@@ -22,3 +22,6 @@
 ## Introduction to Performance testing: 
   Performance testing is the process of evaluating the performance of a software application or system under specific load conditions. It is used to determine whether the application or system can handle the expected workload and to identify bottlenecks and other issues that may impact performance
 
+## Introduction to SQL Basics:
+   As a testing automation engineer, learning SQL can be useful for querying databases as part of your testing efforts, as well as for analyzing and reporting on test data. Here are some basic SQL concepts (SELECT, INSERT, DELETE, UPDATE statements) that you may want to understand as a testing automation engineer.
+
